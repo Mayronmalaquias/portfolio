@@ -57,10 +57,12 @@
 
 .information .nome::before {
     background-image: url('../img/icons/User.png');
+    width: .85rem;
 }
 
 .information .email::before {
     background-image: url('../img/icons/Email.png');
+    width: 1rem;
 }
 
 .information .wpp:before {
@@ -68,7 +70,9 @@
 }
 
 .information .loc::before {
-    background-image: url('../img/icons/loc.png');
+    background-image: url('../img/icons/loc.svg');
+    width: .70rem;
+    background-image: no-repeat no-repeat;
 }
 
 @media only screen and (min-width: 768px) {
