@@ -56,19 +56,19 @@
 }
 
 .information .nome::before {
-    background-image: url('../img/icons/nome.svg');
+    background-image: url('../img/icons/User.png');
 }
 
 .information .email::before {
-    background-image: url('../img/icons/email.svg');
+    background-image: url('../img/icons/Email.png');
 }
 
 .information .wpp:before {
-    background-image: url('../img/icons/wpp.svg');
+    background-image: url('../img/icons/Num.png');
 }
 
 .information .loc::before {
-    background-image: url('../img/icons/loc.svg');
+    background-image: url('../img/icons/loc.png');
 }
 
 @media only screen and (min-width: 768px) {
